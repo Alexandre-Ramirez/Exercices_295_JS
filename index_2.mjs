@@ -1,3 +1,4 @@
+// Exercice 2
 let playlist = ["Hometown", "I had some help", "92 Explorer"];
 console.log(playlist.length);
 
