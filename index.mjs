@@ -1,25 +1,17 @@
-const playlist = {
-    nb_tracks : 125,
-    display: function() {
-        return (`this playlist contains ${playlist.nb_tracks} tracks.`);
-    }
-};
+let playlist = ["Hometown", "I had some help", "92 Explorer"];
+console.log(playlist.length);
 
-console.log(playlist.nb_tracks)
-console.log(playlist.display())
+playlist.push("Back in black","JCVD");
 
-let soustraction = 15
+playlist.forEach(function(song) {
+    console.log(song);
+});
 
-let resultat = playlist.nb_tracks -= soustraction
+playlist.pop();
+playlist.splice(1,1);
+playlist.splice(6,1)
+    console.log(playlist)
 
-console.log(resultat)
-console.log(playlist.display())
 
-let addition = 10
-
-let resultat_2 = playlist.nb_tracks += addition
-
-console.log(resultat_2)
-console.log(`Maintanant, j'ai ${playlist.nb_tracks} dans ma playlist`)
 
 
