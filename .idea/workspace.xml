@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f7ea290-7032-48b8-be72-e2d9d7c393f4" name="Changes" comment="Adding ex_3 &amp; 4 to git" />
+    <list default="true" id="9f7ea290-7032-48b8-be72-e2d9d7c393f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/serveur.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +56,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Serveur&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ps78ppi/IdeaProjects/Exercices_295_JS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,6 +68,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ps78ppi\IdeaProjects\Exercices_295_JS" />
+    </key>
+  </component>
   <component name="RunManager" selected="Node.js.Index_4.mjs">
     <configuration name="Index_3.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Index_3.mjs" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -106,6 +116,11 @@
       <workItem from="1755604005688" duration="6900000" />
       <workItem from="1756102722627" duration="5381000" />
       <workItem from="1756207397459" duration="875000" />
+      <workItem from="1762519651200" duration="13000" />
+      <workItem from="1762758801136" duration="142000" />
+      <workItem from="1762865806604" duration="128000" />
+      <workItem from="1762866054163" duration="600000" />
+      <workItem from="1763026829989" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Exercice 1">
       <option name="closed" value="true" />
